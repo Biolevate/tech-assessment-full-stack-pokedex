@@ -26,7 +26,7 @@ provided the baseline application remains runnable and reviewable.
 Your challenge is not only to display data.
 It is to decide which search problems to solve,
 what makes a result relevant,
-and how to turn those decisions into a coherent full-stack product.
+and how to turn those decisions into a coherent product.
 
 ## Expected effort
 
